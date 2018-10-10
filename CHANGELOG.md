@@ -1,6 +1,6 @@
 ### 0.0.8 (next)
 
-* Your contribution here.
+* Add ability to query all launches via `SPACEX::Launches.all` - [@ludamillion](https://github.com/ludamillion)
 
 ### 0.0.7 (2018/10/07)
 
